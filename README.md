@@ -16,15 +16,30 @@ I'm a CSE Undergraduate Student and I love every technology and I'm always excit
 - Follow me on Instagram : https://www.instagram.com/vipulbnsal/
 - Connect me on Linkedin : https://www.linkedin.com/in/vipul-bansal/
 
-**Languages and Tools:**  
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
+**Languages:**  
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png">
+<img height="40" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
+
+**Tools & Technologies:**  
+<img height="50" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png">
+<img height="50" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-powerful-mobile-apps-for-those-with-disabilities-3.png">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png">  
+<img height="50" src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png">
+<img height="50" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png">
+<img height="50" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+<img height="50" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">  
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg">
+<img height="50" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">  
+<img height="50" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="50" src="https://avatars.githubusercontent.com/u/1507452?s=200&v=4">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg">
+
+***
 
 #### Take a look at my repositories:
 
